@@ -1,2 +1,2 @@
 # animalmedicalhelper-sites
-AnimalMedicalHelperのサイトへのリダイレクト先
+AnimalMedicalHelperのサイトへのリダイレクト先。ただいま準備中
