@@ -1,0 +1,2 @@
+# animalmedicalhelper-sites
+AnimalMedicalHelperのサイトへのリダイレクト先
